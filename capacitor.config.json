@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.likhon.sensipro",
+  "appName": "SENSI PRO",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
